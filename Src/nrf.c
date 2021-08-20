@@ -1,6 +1,6 @@
 # include "nrf.h"
 
-//lakjsldka
+//laka
 //typedef struct {
 //	uint8_t PayloadSize;				//Payload size
 //	uint8_t Channel;					//Channel selected
